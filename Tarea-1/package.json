@@ -9,11 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.1.4",
     "body-parser": "^1.15.2",
+    "dateformat": "^2.0.0",
     "ejs": "^2.5.5",
     "ejs-mate": "^2.3.0",
     "express": "^4.14.0",
     "fs": "0.0.1-security",
-    "mongoose": "^4.7.7"
+    "mongoose": "^4.7.7",
+    "pad": "^1.0.2"
   }
 }
